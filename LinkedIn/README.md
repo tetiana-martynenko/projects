@@ -7,21 +7,33 @@ LinkedIn Project Analysis Description
 
 The project analyzes job postings on LinkedIn to identify trends in the job market, salary structures, and the effectiveness of application methods. 
 The goal is to provide recommendations for improving the LinkedIn platform and help job seekers navigate the job market. 
+
 The analysis uses the LinkedIn Job Postings Dataset, which includes information on 123,849 job listings from April 2024 in the USA.
 
 Tools used: Python, MySQL, Tableau.
+
 Source: LinkedIn Job Postings Dataset (https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/data)
+
 Format: 8 CSV tables.
+
 Number of records: 123,849 job postings.
 
 Key features:
+
 Job title: e.g., "Data Scientist", "Software Engineer".
+
 Employment type: mostly full-time (80%), part-time (10%), and the rest are contract, internship, or temporary.
+
 Salary range: median salary varies from $52,000 to $193,000.
+
 Highest salaries: $193,000 for executive roles.
+
 Presence of salary in the job posting increases the conversion rate by over 2%.
+
 Industries: Leading sectors include IT services, Sales, and Management (around 30% of job postings).
+
 Benefits: 35% of job postings offer retirement savings (401(k)).
+
 Overall conversion rate: 6.5%.
 
 Conclusions:
